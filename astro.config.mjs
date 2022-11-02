@@ -3,8 +3,8 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://thakrisp.github.io/RCrispinResume",
-  base: "/dist",
+  site: "https://thakrisp.github.io",
+  base: "/RCrispinResume",
 
   integrations: [tailwind()],
 });

@@ -4,7 +4,7 @@ import tailwind from "@astrojs/tailwind";
 // https://astro.build/config
 export default defineConfig({
   site: "https://thakrisp.github.io",
-  base: "/RCrispinResume",
+  base: "/RCrispinResume3.0",
 
   integrations: [tailwind()],
 });
